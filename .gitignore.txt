@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Checkpoints & Model weights (KHÔNG PUSH LÊN GIT)
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
